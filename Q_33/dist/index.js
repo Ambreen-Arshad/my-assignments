@@ -1,4 +1,3 @@
-"use strict";
 // Date 19-3-2024
 // This is "Ambreen",and you are watching the solution of the problem no 33 in typescript assignment.
 // Ordinal Numbers: Ordinal numbers indicate their position in a array, such as 1st or 2nd. \n
@@ -24,3 +23,4 @@ for (let num of numbers) {
     }
     console.log(`${num} ${ordinalEnding}`);
 }
+export {};
